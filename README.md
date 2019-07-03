@@ -19,7 +19,9 @@ The toolbox contains the following folders:
 
 ## How to cite
 
-Christian Kaps and José L. Zofío (2019). DEA Cross Efficiency Toolbox for Matlab. DOI:  https://github.com/joselzofio/DEACrossEfficiencyMATLAB.git
+Christian Kaps and José L. Zofío (2019). DEA Cross Efficiency Toolbox for Matlab. Erasmus Research Institute of Management, Erasmus University, Rotterdam, The Netherlands.
+
+[![DOI](https://zenodo.org/badge/194225634.svg)](https://zenodo.org/badge/latestdoi/194225634)
 
 ## License
 
