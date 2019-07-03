@@ -1,12 +1,12 @@
 # DEA Cross-Efficiency Toolbox for MATLAB
 
-Version 1.0
+Version 1.0.0
 
 ## Authors
 
 Christian Kaps
 
-José L. Zofío.
+José L. Zofío
 
 ## Usage
 
