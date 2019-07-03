@@ -12,7 +12,7 @@ The toolbox contains the following folders:
 
 How to cite:
 
-Christian Kaps and José L. Zofío (2019). DEA Cross Efficiency Toolbox for Matlab. Erasmus Research Institute of Management, Erasmus University, Rotterdam, The Netherlands. DOI:10.5281/zenodo.3267349
+Christian Kaps and José L. Zofío (2019). DEA Cross Efficiency Toolbox for Matlab. Erasmus Research Institute of Management, Erasmus University, Rotterdam, The Netherlands. DOI: 10.5281/zanodo.3267349. http://doi.org/10.5281/zenodo.3267349
 
 https://github.com/joselzofio/DEACrossEfficiencyMATLAB.git
 
