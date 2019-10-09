@@ -10,12 +10,22 @@ José L. Zofío
 
 ## Usage
 
-To use the Toolbox add the folder called "crossefftoolbox" to the MATLAB path.
+To use the Toolbox add the folder called "crossefftoolbox" to the MATLAB path. 
+
+The toolbox calculates the following cross-efficiency models:
+
+  1.	Original classic model (Sexton et al., 1986) 
+  2.	The linear surrogates by these authors and Doyle and Green (1994).
+  3.	The Multiplicative model by Charnes et al.  (1982, 1983).
+  4.	Maximum Log Cross Efficiency Model by Cook and Zhu (2014). 
+  5.	Game cross-efficiency, as introduced by Liang et al. (2008).
+
+All these modeles are presented in detail in the following publication: Balk, B.M. & de Koster, M.B.M. & Kaps, C. & Zofío, J.L., 2017. "An Evaluation of Cross-Efficiency Methods, Applied to Measuring Warehouse Performance," ERIM Report Series Research in Management ERS-2017-015-LIS, Erasmus Research Institute of Management (ERIM). https://repub.eur.nl/pub/103185.  
 
 The toolbox contains the following folders:
 
 - crossefftoolbox: all the functions needed to calculate cross-efficiency are here. This is the folder you must add to the MATLAB path.
-- exampledata: warehouse data studied in Balk, B.M. & de Koster, M.B.M. & Kaps, C. & Zofío, J.L., 2017. "An Evaluation of Cross-Efficiency Methods, Applied to Measuring Warehouse Performance," ERIM Report Series Research in Management ERS-2017-015-LIS, Erasmus Research Institute of Management (ERIM). https://repub.eur.nl/pub/103185. The dataset, along with accompanying information on the survey methods and variable definitions, are also available for downloading in spreadsheet format at https://doi.org/10.25397/eur.8279426.
+- exampledata: warehouse data studied in Balk et al. (2017)cited above. The dataset, along with accompanying information on the survey methods and variable definitions, are also available for downloading in spreadsheet format at https://doi.org/10.25397/eur.8279426.
 
 ## How to cite
 
