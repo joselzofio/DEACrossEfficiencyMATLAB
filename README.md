@@ -20,7 +20,7 @@ The toolbox calculates the following cross-efficiency models:
   4.	Maximum Log Cross Efficiency Model by Cook and Zhu (2014). 
   5.	Game cross-efficiency, as introduced by Liang et al. (2008).
 
-All these models are presented in detail in the following publication: Balk, B.M. & de Koster, M.B.M. & Kaps, C. & Zofío, J.L., 2017. "An Evaluation of Cross-Efficiency Methods, Applied to Measuring Warehouse Performance," ERIM Report Series Research in Management ERS-2017-015-LIS, Erasmus Research Institute of Management (ERIM). https://repub.eur.nl/pub/103185.  
+All these models are presented in detail in the following publication: Balk, B.M. & de Koster, M.B.M. & Kaps, C. & Zofío, J.L., 2021. "An evaluation of cross-efficiency methods: With an application to warehouse performance,” Applied Mathematics and Computation, 406, 126261. https://doi.org/10.1016/j.amc.2021.126261.  
 
 The toolbox contains the following folders:
 
